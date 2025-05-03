@@ -21,7 +21,9 @@ Xem thử gameplay của trò chơi [tại đây]()
 
 ### Nội dung game
 - Lật 2 thẻ trùng nhau thì cộng 10 x level điểm. Ngoài ra lật vào cặp thẻ bomb thì lập tức thua luôn, lật vào cặp thẻ vương miện thì x2 số điểm kiếm được
-  ![image](https://github.com/nhatminh1807/BTL/blob/main/emojis/bomb.png), ![image](https://github.com/nhatminh1807/BTL/blob/main/emojis/x2.png)
+
+
+  ![image](https://github.com/nhatminh1807/BTL/blob/main/emojis/bomb.png) ![image](https://github.com/nhatminh1807/BTL/blob/main/emojis/x2.png)
 
 
 
