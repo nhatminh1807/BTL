@@ -1,6 +1,5 @@
 
-# World War Fantasy
-
+# Memory matching game
 
 
 ## Giới thiệu
@@ -8,7 +7,6 @@
 - MSSV: 24022818
 - K69-CN15, Trường Đại học Công nghệ, Đại học Quốc gia Hà Nội (UET-VNU)
     
-Memory matching game - trò chơi đơn giản
 ## Hướng dẫn tải và chạy game
 - Bước 1: Bấm vào phần "Code" màu xanh lá ở trên rồi bấm "Download ZIP" ở dưới cùng để tải game
 - Bước 2: Extract file zip vừa tải về
