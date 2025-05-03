@@ -73,7 +73,6 @@ bool loadMedia() {
     x2Sound = Mix_LoadWAV("sounds/x2.wav");
 
     if (!flipSound || !matchedSound || !wrongSound || !bgMusic || !clickSound || !loseSound || !x2Sound) {
-        cerr << "Failed to load sound files! Error: " << Mix_GetError() << endl;
         return false;
     }
 
