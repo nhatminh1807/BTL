@@ -8,7 +8,7 @@ Mã số sinh viên: 24022818-CN15
 ## Giới thiệu game
 Emoji Matching Game là trò chơi lật thẻ tìm cặp hình giống nhau, với nhiều cấp độ khó tăng dần và các yếu tố hấp dẫn như thẻ đặc biệt (x2, bomb), giới hạn thời gian
 
-## Mức điểm đề xuất: 7.5
+## Mức điểm đề xuất: 8
 ## Lý do bảo vệ mức điểm:
 ### Phát triển từ code mẫu và có bổ sung đáng kể:
 Game được chia module rõ ràng (main menu, pause, game over, logic chơi, điểm số cao, cấp độ).
