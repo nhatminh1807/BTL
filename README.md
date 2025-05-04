@@ -34,7 +34,7 @@ Tính điểm và lưu điểm cao nhất (high score) giữa các lượt chơi
 
 Có thể tạm dừng và tiếp tục game (phím ESC hoặc nút Pause).
 
-###📄 Các tính năng tự bổ sung:
+### Các tính năng tự bổ sung:
 Quản lý trạng thái game (MENU, PLAYING, PAUSED, GAME_OVER) một cách chặt chẽ.
 
 Hiển thị thời gian còn lại bằng thanh hiệu ứng.
